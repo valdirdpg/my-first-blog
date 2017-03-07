@@ -1,0 +1,1 @@
+virtualblog\Scripts\activate

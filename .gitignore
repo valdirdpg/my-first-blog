@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+virtualblog
+db.sqlite3
+db.meu_blog
+.DS_Store
